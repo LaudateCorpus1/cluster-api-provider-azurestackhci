@@ -11,7 +11,7 @@ require (
 	github.com/microsoft/moc-sdk-for-go v0.10.9-alpha.4
 	github.com/pkg/errors v0.9.1
 	github.com/spf13/pflag v1.0.5
-	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
+	golang.org/x/crypto v0.1.0
 	google.golang.org/grpc v1.27.1
 	k8s.io/api v0.17.9
 	k8s.io/apimachinery v0.17.9
